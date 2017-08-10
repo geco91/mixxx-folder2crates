@@ -1,0 +1,12 @@
+{
+  "name": "folder2crates",
+  "version": "1.0.0",
+  "description": "converts mp3 folder structure to mixxx crates",
+  "main": "folder2crates.js",
+  "dependencies": {
+    "sqlite3": "^3.1.9"
+  },
+  "devDependencies": {},
+  "author": "/rootzoll",
+  "license": "MIT"
+}
